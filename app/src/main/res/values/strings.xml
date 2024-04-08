@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nurzhigit_Ishenov_hw_2_m_3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_of_send_page">Intents</string>
+    <string name="receiver_email_hint">Enter an email of receiver</string>
+    <string name="theme_hint">Enter your theme</string>
+    <string name="message_hint">Type your message</string>
+    <string name="send_button">SEND</string>
+    <string name="next_button">NEXT</string>
+</resources>
